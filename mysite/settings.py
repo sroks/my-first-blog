@@ -25,7 +25,7 @@ SECRET_KEY = '1lb=1jk)vmon=grw!1(9w^&quq%^q!pkbqc9_3odzl)4h!5zac'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '*pythonanywhere.com']
 
 LOGIN_REDIRECT_URL = '/'
 
